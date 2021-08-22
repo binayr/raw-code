@@ -23,10 +23,19 @@
 5.Medium.23     Remove Nth Node From End of List
 6.EasyMedium.24 square root of a number(easy)
 6.EasyMedium.25 Swap Nodes in Pairs
-7.EasyMedium.26 Divide Two Integers
+7.EasyMedium.26 Divide Two Integers(unsolved)
 7.EasyMedium.27 Remove Duplicates from Sorted Array(easy)
 7.EasyMedium.28 Climbing Stairs(easy)
-7.Medium.29     3 sum
-7.Medium.30     3 sum closest
-7.Medium.31     4 sum
-7.Medium.32     Find First and Last Position of Element in Sorted Array
+8.Medium.29     3 sum
+8.Medium.30     3 sum closest
+8.Medium.31     4 sum
+8.Medium.32     Find First and Last Position of Element in Sorted Array
+9.Medium.33     Next Permutation
+9.Medium.34     find object in rotated sorted array
+9.Medium.35     Valid Sudoku
+9.Medium.36     Combination Sum II
+10.Medium.37    Pow(x, n)
+10.Medium.38    Group Anagrams
+10.Medium.39    Rotate Image
+10.Medium.40    Permutation (unsolved)
+11.Easy.41      
