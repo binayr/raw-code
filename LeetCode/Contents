@@ -23,7 +23,7 @@
 5.Medium.23     Remove Nth Node From End of List
 6.EasyMedium.24 square root of a number(easy)
 6.EasyMedium.25 Swap Nodes in Pairs
-7.EasyMedium.26 Divide Two Integers(unsolved)
+7.EasyMedium.26 Divide Two Integers
 7.EasyMedium.27 Remove Duplicates from Sorted Array(easy)
 7.EasyMedium.28 Climbing Stairs(easy)
 8.Medium.29     3 sum
@@ -37,7 +37,7 @@
 10.Medium.37    Pow(x, n)
 10.Medium.38    Group Anagrams
 10.Medium.39    Rotate Image
-10.Medium.40    Permutation (unsolved)
+10.Medium.40    Permutation
 11.Easy.41      Binary Tree Inorder Traversal
 11.Easy.42      Same tree
 11.Easy.43      symetric tree
@@ -63,3 +63,29 @@
 12.Easy.63      Intersection of two arrays
 12.Easy.64      reverse string inplace
 12.Easy.65      power of three
+13.Medium.66   Merge Intervals
+13.Medium.67   Jump Game
+13.Medium.68   Unique paths
+13.Medium.69   spiral matrix
+13.Medium.70   Set Matrix Zeroes
+13.Medium.71   sort colors
+13.Medium.72   subsets (dp)
+13.Medium.73   Valid BST
+13.Medium.74   level order traversal binary tree
+13.Medium.75   zigzag level order traversal BTree
+13.Medium.76   construct tree from preorder and inorder
+13.Medium.77   Populating next right pointer in each node
+13.Medium.78   Longest consecutive sequence
+13.Medium.79   LRU Cache
+13.Medium.80   Maximus product sublist
+13.Medium.81   Find peak element
+13.Medium.82   Fraction to reccurring decimal¶
+13.Medium.83   Largest Number
+14.Medium.84   Rotate Array
+15.Hard.85     Median of Two Sorted Arrays
+14.Medium.86   Generate Paranthesis
+10.Medium.87   Permutations 2
+14.Medium.88   Word Search
+12.Easy.89     Best time to buy/sell stocks
+14.Medium.90   Best time to buy/sell stocks II
+
