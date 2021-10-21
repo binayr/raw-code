@@ -47,7 +47,7 @@
 11.Easy.47      Single Number
 11.Easy.48      Linked List Cycle
 12.Easy.49      Min stack
-12.Easy.50      Intersection of 2 linked list (unsolved)
+12.Easy.50      Intersection of 2 linked list
 12.Easy.51      majority
 12.Easy.52      happy number
 12.Easy.53      Excel columns
@@ -63,29 +63,41 @@
 12.Easy.63      Intersection of two arrays
 12.Easy.64      reverse string inplace
 12.Easy.65      power of three
-13.Medium.66   Merge Intervals
-13.Medium.67   Jump Game
-13.Medium.68   Unique paths
-13.Medium.69   spiral matrix
-13.Medium.70   Set Matrix Zeroes
-13.Medium.71   sort colors
-13.Medium.72   subsets (dp)
-13.Medium.73   Valid BST
-13.Medium.74   level order traversal binary tree
-13.Medium.75   zigzag level order traversal BTree
-13.Medium.76   construct tree from preorder and inorder
-13.Medium.77   Populating next right pointer in each node
-13.Medium.78   Longest consecutive sequence
-13.Medium.79   LRU Cache
-13.Medium.80   Maximus product sublist
-13.Medium.81   Find peak element
-13.Medium.82   Fraction to reccurring decimal¶
-13.Medium.83   Largest Number
-14.Medium.84   Rotate Array
-15.Hard.85     Median of Two Sorted Arrays
-14.Medium.86   Generate Paranthesis
-10.Medium.87   Permutations 2
-14.Medium.88   Word Search
-12.Easy.89     Best time to buy/sell stocks
-14.Medium.90   Best time to buy/sell stocks II
-
+13.Medium.66    Merge Intervals
+13.Medium.67    Jump Game
+13.Medium.68    Unique paths
+13.Medium.69    spiral matrix
+13.Medium.70    Set Matrix Zeroes
+13.Medium.71    sort colors
+13.Medium.72    subsets (dp)
+13.Medium.73    Valid BST
+13.Medium.74    level order traversal binary tree
+13.Medium.75    zigzag level order traversal BTree
+13.Medium.76    construct tree from preorder and inorder
+13.Medium.77    Populating next right pointer in each node
+13.Medium.78    Longest consecutive sequence
+13.Medium.79    LRU Cache
+13.Medium.80    Maximus product sublist
+13.Medium.81    Find peak element
+13.Medium.82    Fraction to reccurring decimal¶
+13.Medium.83    Largest Number
+14.Medium.84    Rotate Array
+15.Hard.85      Median of Two Sorted Arrays
+14.Medium.86    Generate Paranthesis
+10.Medium.87    Permutations 2
+14.Medium.88    Word Search
+12.Easy.89      Best time to buy/sell stocks
+14.Medium.90    Best time to buy/sell stocks II
+14.Medium.91    Palindromic Partition
+14.Medium.92    Insert Interval
+14.Medium.93    Rotate List
+14.Medium.94    Unique paths II
+14.Medium.95    Spiral Matrix II
+14.Medium.96    Search 2D Matrix
+14.Medium.97    remove duplicates from sorted array II
+14.Medium.98    remove dupilcates from sorted list II
+14.Medium.99    Partition List
+14.Medium.100   Search in rotated array II (with duplicates)
+12.Easy.101     Binary Tree Post Order Traversal
+12.Easy.102     Binary Tree Pre Order Traversal
+12.Easy.103     Minimum depth of binary tree
