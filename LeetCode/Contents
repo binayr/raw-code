@@ -101,3 +101,35 @@
 12.Easy.101     Binary Tree Post Order Traversal
 12.Easy.102     Binary Tree Pre Order Traversal
 12.Easy.103     Minimum depth of binary tree
+12.Easy.104     Balanced Binary Tree
+12.Easy.105     Convert sorted array to BST
+14.Medium.106   Reverse Linked List II
+14.Medium.107   Binary tree level order traversal
+14.Medium.108   Convert Sorted List to Binary Search Tree
+14.Medium.109   Build tree from inorder and post order traversal
+14.Medium.110   Flatten Binary Tree to Linked List
+14.Medium.111   Populating Next Right Pointers in Each Node II (same as I)
+14.Medium.112   Triangle
+14.Medium.113   Sum root to leaf numbers
+16.Medium.114   Find Minimum in Rotated Sorted Array 
+16.Medium.115   Binary Search Tree Iterator,   version to number
+16.Medium.116   Repeated DNA Sequence
+16.Medium.117   Binary tree right view
+16.Medium.118   Implement Trie
+16.Medium.119   Minimum Size Subarray Sum
+16.Medium.120   Design Add and Search Words Data Structure
+16.Medium.121   Count complete tree nodes
+16.Medium.122   Basic Calculator II
+16.Medium.123   Majority element II
+16.Medium.124   Kth Smallest Element in a BST
+16.Medium.125   lowest common ancestor of a binary tree
+16.Medium.126   product of array except self
+16.Medium.127   Search a 2D Matrix II
+16.Medium.128   Single Number
+16.Medium.129   H Index
+16.Medium.130   H Index II
+16.Medium.131   Peeking Iterator
+16.Medium.132   Range Sum Query 2D - Immutable
+16.Medium.133   Range Sum Query - Mutable
+16.Medium.134   Maximum Product of Word Lengths
+16.Medium.135   Bulb Switcher
